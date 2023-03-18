@@ -1,3 +1,9 @@
+//please import react icons before running the code 
+//check image in asset svg file not comming properly
+// media query not used in css
+// change the date obj and put the date 2021 maually if needed 
+
+
 import React from "react";
 import "./footer.css";
 import logo from "./asset/path0.svg";

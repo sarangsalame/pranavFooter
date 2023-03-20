@@ -5,17 +5,15 @@
   padding: 0;
   box-sizing: border-box;
   list-style: none;
+  font-family: "DM Sans", sans-serif;
 }
 footer {
   color: #ffffff;
   width: 100vw;
   height: 470px;
-
   display: flex;
-
   align-items: center;
   background: #004346;
-  font-family: "DM Sans", sans-serif;
 }
 .logo__container {
   width: 35%;
@@ -39,15 +37,14 @@ footer {
   height: 100%;
 }
 .footer__other {
-  height: 100%;
-
+  height: 80%;
+  margin-top: 3%;
   display: flex;
   justify-content: space-evenly;
 }
 .foo__items,
 .social {
   margin-top: 4rem;
-  
 }
 .foo__items h3,
 .social h3 {

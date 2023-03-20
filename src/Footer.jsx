@@ -4,6 +4,7 @@ import logo from "./asset/path0.svg";
 import { FaFacebook } from "react-icons/fa";
 import { AiFillTwitterCircle } from "react-icons/ai";
 import { BsLinkedin } from "react-icons/bs";
+
 const Footer = () => {
   let year = new Date().getFullYear();
   return (
